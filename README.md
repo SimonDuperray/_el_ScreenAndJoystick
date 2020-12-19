@@ -1,4 +1,4 @@
-# Invisibility
+# Screen And Joystick
 
 [-> Repository](https://github.com/SimonDuperray/el_ScreenAndJoystick)
 
@@ -11,7 +11,7 @@
 Small Arduino project using a joystick and a LCD screen. The joystick orientation is printed on the lcd screen.
 	
 ## :computer: Technologies
-Chrono_Background is created with:
+ScreenAndJoystick is created with:
 * Arduino
 * C++
 	
